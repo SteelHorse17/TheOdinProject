@@ -1,1 +1,10 @@
-This will be used to write notes for general information
+This will be used to write notes for general information.
+Day 1:
+- Installed the Ubuntu VM 
+- Completed the Git install and setup
+Day 2: 
+- Completed the HTML boilerplate
+- Begin to build first initial mock website that will be a recipe site
+    - List of ingredients (UL)
+    - Directionsn (OL)
+    
